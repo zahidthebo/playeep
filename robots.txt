@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://playeep.netlify.app/sitemap.xml
